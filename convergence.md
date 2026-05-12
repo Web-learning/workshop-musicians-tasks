@@ -21,7 +21,7 @@ Any device with an internet connection is necessary to participate.
 
 To access the notes
 
-Go to this address to add  meeting notes: [https://mensuel.framapad.org/p/Musicians]([]https://mensuel.framapad.org/p/Musicians[])
+Go to this address to add  meeting notes: [https://mensuel.framapad.org/p/Musicians](https://mensuel.framapad.org/p/Musicians)
 
 ──────────
 
