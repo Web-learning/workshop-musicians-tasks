@@ -12,6 +12,18 @@
         "type": "Point",
         "coordinates": [28.0436, -26.1887]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bp002",
+        "name": "Wits Linder Auditorium",
+        "date": "12 May 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0148760,-26.1800710]
+      }
     }
   ]
 }
