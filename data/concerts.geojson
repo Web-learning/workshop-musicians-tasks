@@ -24,6 +24,19 @@
         "type": "Point",
         "coordinates": [28.042152,-26.178144]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bp003",
+        "name": "Chris Seabrooke Music Hall",
+        "date": "12 May 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.03214,-26.19530]
+      }
     }
+
   ]
 }
