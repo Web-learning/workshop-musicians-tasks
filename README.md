@@ -14,9 +14,9 @@ A collection of tasks for musicians to complete so that they get onto the [knowl
 * Website address? Social Media Accounts? Published unterviews in media?
 * Profile photos, album covers
 * Other music [object identifiers](https://www.wikidata.org/wiki/Wikidata:WikiProject_Music)?
-** Spotify (P1902)?
-** Amazon Music artist ID (P6276)?
-** MusicBrainz artist ID (P434)[https://musicbrainz.org/]  
+* Spotify (P1902)[https://artists.spotify.com/home]?
+* Amazon Music artist ID (P6276)[https://artists.amazon.com/]
+* MusicBrainz artist ID (P434)[https://musicbrainz.org/]  
 # Wikimedia Basics
 * Lets get your pics onto Wikimedia Commons and your metadata onto Wikidata
 
