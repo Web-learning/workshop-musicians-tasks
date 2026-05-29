@@ -25,4 +25,4 @@ A collection of tasks for musicians to complete so that they get onto the [knowl
 # Wikimedia Basics
 * Lets get your pics onto Wikimedia Commons and your metadata onto Wikidata
 
-No deletions? Good. You are probably notable enough to move onto English Wikipedia (for the brave) or onto Vernacular Wikipedia (for the creatives)
+No deletions? Good. You are probably notable enough to move onto English Wikipedia (for the brave) or onto Vernacular Wikipedia (for the creatives) or weblearning  can host a website for you!
